@@ -1,3 +1,5 @@
 Master feature
 
+Feature B implemented!
+
 Feature A implemented!
